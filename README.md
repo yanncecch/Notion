@@ -74,15 +74,15 @@ schedule:
 Cela exécutera main.py tous les jours à 6h du matin.
 
 ## 📦 Technologies utilisées
-🔹 Python
-🔹 API Notion
-🔹 API Dev.to
-🔹 GitLab CI/CD
+- Python
+- API Notion
+- API Dev.to
+- GitLab CI/CD
 
 ## 🛠 Améliorations possibles
-🔹 Ajouter d’autres sources d’articles (Medium, Hashnode...).
-🔹 Intégrer des notifications Slack/Telegram.
-🔹 Améliorer l’affichage dans Notion avec des catégories et filtres.
+- Ajouter d’autres sources d’articles (Medium, Hashnode...).
+- Intégrer des notifications Slack/Telegram.
+- Améliorer l’affichage dans Notion avec des catégories et filtres.
 
 ## 📩 Contribuer
 Tu veux améliorer ce projet ? Clone-le, fais tes modifications et propose une pull request !
